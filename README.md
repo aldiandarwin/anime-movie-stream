@@ -19,17 +19,17 @@ Copy code
 cd anime-stream-nextjs
 Install Dependencies:
 
-``` bash
+bash
 Copy code
 npm install
 Start the Development Server:
 
-```bash
+bash
 Copy code
 npm run dev
 The app will be available at <http://localhost:3000>.
 
-### Features
+## Features
 
 Stream your favorite anime series.
 User-friendly interface.
@@ -40,7 +40,7 @@ Technologies Used
 Next.js: Frontend framework for React.js.
 Node.js: JavaScript runtime.
 
-### In this README
+## In this README
 
 Installation instructions are clear and concise.
 Features of the project are outlined.
