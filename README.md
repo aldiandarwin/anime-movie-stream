@@ -1,4 +1,3 @@
-
 # Anime Stream Next.js Project
 
 Welcome to the Anime Stream Next.js project! This project allows you to stream your favorite anime series using Next.js.
