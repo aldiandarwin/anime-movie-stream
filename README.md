@@ -9,38 +9,59 @@ Before you begin, ensure you have Node.js installed, preferably version 18 or hi
 Clone the Repository:
 
 bash
-Copy code
+
+```Copy code
 git clone <https://github.com//aldiandarwin/anime-movie-stream.git>
+```
+
 Navigate to the Project Directory:
 
 bash
-Copy code
+
+```Copy code
 cd anime-stream-nextjs
+```
+
 Install Dependencies:
 
 bash
-Copy code
+
+```Copy code
 npm install
+```
+
 Start the Development Server:
 
 bash
-Copy code
+
+```Copy code
 npm run dev
+```
+
 The app will be available at <http://localhost:3000>.
 
 ## Features
 
 Stream your favorite anime series.
+
 User-friendly interface.
+
 Add to favorites and create playlists.
+
 Search for anime series.
 
-Technologies Used
+## Technologies Used
+
 Next.js: Frontend framework for React.js.
+
 Node.js: JavaScript runtime.
+
+Tailwind Css
 
 ## In this README
 
 Installation instructions are clear and concise.
+
 Features of the project are outlined.
+
 Technologies used are mentioned.
