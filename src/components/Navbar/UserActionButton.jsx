@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { authUserSession } from '@/libs/auth-lib';
+import { authUserSession } from '@/libs/auth-libs';
 
 const UserActionButton = async () => {
     const user = await authUserSession();
